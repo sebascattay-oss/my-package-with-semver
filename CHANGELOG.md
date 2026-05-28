@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-28)
+
+### Features
+
+- Introduce a breaking change
+  ([`4269ee6`](https://github.com/sebascattay-oss/my-package-with-semver/commit/4269ee64eef39fbbc28dc71b3fbb9446a82ff1df))
+
+
 ## v1.1.0 (2026-05-28)
 
 ### Bug Fixes
