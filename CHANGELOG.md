@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-28)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`d4d664b`](https://github.com/sebascattay-oss/my-package-with-semver/commit/d4d664b03554d8837c3febd3453e42277fc25c14))
+
+
 ## v2.0.0 (2026-05-28)
 
 ### Features
